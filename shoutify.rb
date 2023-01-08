@@ -12,10 +12,3 @@ end
 # text = gets.chomp
 text = "hello there cutie"
 puts text.shoutify 
-
-
-class String
-  def bark 
-    return "Woof!"
-  end
-end
